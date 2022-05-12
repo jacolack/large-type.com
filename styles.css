@@ -137,6 +137,7 @@ input::-webkit-input-placeholder {
 .text {
     font-family: monospace;
     font-size: 10vw;
+    font-weight: 100;
 }
 
 .number {
