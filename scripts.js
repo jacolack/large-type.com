@@ -1,7 +1,7 @@
 window.addEventListener('DOMContentLoaded', function () {
     "use strict";
 
-    var WELCOME_MSG = '*hello*';
+    var WELCOME_MSG = "Andrew's mom";
 
     var textDiv = document.querySelector('.text');
     var inputField = document.querySelector('.inputbox');
